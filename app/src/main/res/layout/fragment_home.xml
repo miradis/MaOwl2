@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment"
+    android:orientation="vertical"
+    android:focusable="true"
+    >
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    <EditText
+        android:id="@+id/search_container"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textColorHint="@color/light_white"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+        android:hint="Select a comics"
+        android:drawableLeft="@drawable/ic_baseline_search_24"
+        android:drawablePadding="15dp"
+        android:background="@drawable/item_selector_search"
+        android:backgroundTint="#2f2f2f"
+
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/random_btn"
+        android:layout_below="@+id/search_container"
+        android:text="Random comics"
+        android:layout_margin="10dp"
+        app:strokeColor="#3f3f3f"
+        app:strokeWidth="1dp"
+        android:textColor="@color/dark_red"
+        android:backgroundTint="@color/background_color"
+        />
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/home_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:drawSelectorOnTop="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:numColumns="1"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="5dp"/>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</LinearLayout>

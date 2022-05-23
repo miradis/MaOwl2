@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/empyre_background.xml" value="0.1" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.124" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/ic_baseline_account_circle_36.xml" value="0.124" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/item_selector.xml" value="0.124" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/item_selector_search.xml" value="0.124" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/round_corner.xml" value="0.124" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/drawable/round_corner_image.xml" value="0.124" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/activity_add_comics.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/activity_comics_page.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/activity_login.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/activity_main.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/activity_register.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/activity_start.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/card_layout.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/comics_fragment.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_account.xml" value="0.264" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_account_login.xml" value="0.1" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_dashboard.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_favorite.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_home.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_notifications.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/fragment_search.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/item_comic_preview.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/pdf_comic_page.xml" value="0.115625" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/search_fragment.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/layout/user_profile_activity.xml" value="0.1" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/mipmap-anydpi-v26/empyre.xml" value="0.1265" />
+        <entry key="..\:/Users/mifla/AndroidStudioProjects/MarOwl2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
